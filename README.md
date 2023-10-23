@@ -36,9 +36,11 @@ If your README is very long, add a table of contents to make it easy for users t
 
 No specific installaction requirements.
 
+Live webpage can be accessed here: https://redpez.github.io/horisean-accessibility
+
 ## Usage
 
-No usage instructions required as the task was to rewite the code only.
+No usage instructions required as the task was to rewrite the code only.
 
 Here is a screenshot of the webpage being worked on.
 

@@ -44,9 +44,7 @@ No usage instructions required as the task was to rewrite the code only.
 
 Here is a screenshot of the webpage being worked on.
 
-```md
-![alt text](assets/images/01-html-css-git-challenge-demo.png)
-```
+<a href="./assets/images/01-html-css-git-challenge-demo.png" </a>
 
 ## Credits
 
